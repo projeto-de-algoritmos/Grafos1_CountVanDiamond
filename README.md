@@ -9,7 +9,9 @@
 | 19/0030291  |  Jackes Tiago Ferreira da Fonseca |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O cenário abaixo é a residência do bilionário Count Van Diamond, que acaba de ser assassinado. Sherlock Gomes, um detetive conhecido internacionalmente por solucionar casos usando seu amplo conhecimento em Teoria dos Grafos, foi chamado para investigar o caso. O mordomo alega ter visto o jardineiro usar a mesma porta para entrar e sair da Sala da Piscina, onde ocorreu o crime. O jardineiro, contudo, afirma que não poderia ser a pessoa vista pelo mordomo, pois havia entrado na casa, passado por todas as portas uma única vez e, em seguida, deixado a casa. Sherlock Gomes avaliou a planta da propriedade e em poucos minutos declarou solucionado o caso. Quem matou o bilionário?
+
+![Count Van Diamand](https://user-images.githubusercontent.com/53023400/127871430-f980b1d7-aee0-4fa0-9e90-dfb85d225889.gif)
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
