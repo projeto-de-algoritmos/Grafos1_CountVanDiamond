@@ -14,16 +14,18 @@ O cenário abaixo é a residência do bilionário Count Van Diamond, que acaba d
 ![Count Van Diamand](https://user-images.githubusercontent.com/53023400/127871430-f980b1d7-aee0-4fa0-9e90-dfb85d225889.gif)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![](https://i.ibb.co/DK7kBnT/count-Vand-Diamond-1.png)
+![](https://i.ibb.co/GPFq389/count-Vand-Diamond-2.png)
+![](https://i.ibb.co/Ctpy5LV/count-Vand-Diamond-3.png)
 
 ## Instalação 
 **Linguagem**: C++<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para rodar o projeto no sua máquina basta executar os seguintes comandos no terminal:
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+    1. g++ countVanDiamond.cpp -o countVanDiamond
+    2. ./countVanDiamond
 
 
 
