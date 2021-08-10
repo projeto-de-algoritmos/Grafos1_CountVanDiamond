@@ -116,18 +116,6 @@ int Graph::isEulerian()
 	return (odd) ? 1 : 2;
 }
 
-// Function to run test cases
-void test(Graph &g)
-{
-	int res = g.isEulerian();
-	if (res == 0)
-		cout << "graph is not Eulerian\n";
-	else if (res == 1)
-		cout << "graph has a Euler path\n";
-	else
-		cout << "graph has a Euler cycle\n";
-}
-
 int main()
 {
 	Graph g(10);
